@@ -46,6 +46,9 @@ If this code is relevant to your research, we would be grateful if you cite our 
 
 ## Contact
 If you have questions or problems regarding the code or paper, please feel invited to reach out to us using the following E-Mails
+
 Dipl.-Ing. Vincent C. Scholz:           vincent.scholz@tum.de
+
 Dr. Yaohua Zang:                        yaohua.zang@tum.de
+
 Prof. Phaedon-Stelios Koutsourelakis:   p.s.koutsourelakis@tum.de
